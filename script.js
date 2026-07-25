@@ -22,6 +22,17 @@ async function fileExists(url) {
   }
 }
 
+function randomPage() {
+  let allKeys = Object.keys(games).map(str=>"g"+str).concat(Object.keys(authors).map(str=>"a"+str),Object.keys(tags).map(str=>"t"+str));
+  let selected = allKeys[Math.floor(Math.random()*allKeys.length)]
+  let type = selected.charAt(0)
+  return `/?${type}=${selected.slice(1)}`
+}
+
+gid("random_page").addEventListener("click",()=>{
+  window.location.href = randomPage();
+})
+
 async function createIndex() {
   let content = ce("div")
   content.classList.add("content")

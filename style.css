@@ -185,7 +185,7 @@ h1 {
   color:var(--bg-color2);
 }
 
-select {
+select, button {
   background-color: var(--bg-color2);
   border:1px solid var(--accent-color);
 }
