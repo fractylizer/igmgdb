@@ -1,4 +1,0 @@
-<h1>Welcome to the IGM Game Database!</h1>
-<p>This will hopefully one day be the largest list of IGM games on the web. Feel free to explore the current collection at your leisure.</p>
-<p>Release dates may be one day off due to time zone differences.</p>
-<h2>Featured Games</h2>
