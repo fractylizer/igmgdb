@@ -7,6 +7,8 @@
 
 :root {
   --accent-color: #d390ab;
+  --accent-color2: #4e9bca;
+  --accent-color3: #c8d7d1;
   --bg-color: #0b2f51;
   --bg-color2: #1f1931;
   --text-color: #fceaff;
@@ -23,9 +25,10 @@
 }
 
 body {
-  background-color: var(--bg-color2);
-  margin: 0;
-	background-size: 65px;
+    background-color: var(--bg-color2);
+    background-size: 65px;
+    margin: 0;
+    padding-bottom: 10px;
 }
 
 #headerArea {
@@ -58,13 +61,15 @@ nav ul {
 }
 
 nav li {
-  padding-top: 10px;
+    padding-top: 10px;
+    flex: 1;
+    text-align: center;
 }
-
 nav li a {
-  font-weight:bold;
-  font-size:1.3em;
-  text-decoration: none;
+    display: block;
+    font-weight: bold;
+    font-size: 1.3em;
+    text-decoration: none;
 }
 
 a {
@@ -158,7 +163,7 @@ h1 {
 
 .banner {
 	width: 100%;
-	padding: 0px;
+	padding: 0;
   height:100px;
   margin:0;
   background-size:cover;
@@ -170,21 +175,20 @@ h1 {
   margin-top:0;
 }
 
-.tag, .game_link {
-  background-color:var(--accent-color);
-  color:var(--bg-color2);
-  text-decoration: none;
-  padding:2px;
-  border-radius:5px;
-  box-shadow:0 1px 0 #00000088,0 0 3px #ffffff88 inset;
-  margin:3px;
+.tag, .game_link, .other_link {
+    background-color: var(--accent-color);
+    color: var(--bg-color2);
+    text-decoration: none;
+    padding: 2px;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 #00000088,0 0 3px #ffffff88 inset;
+    margin: 2px;
+    
+    &:hover, &:visited {color:var(--bg-color2);}
 }
-.tag:hover, .game_link:hover {
-  color:var(--bg-color2);
-}
-.tag:visited, .game_link:visited {
-  color:var(--bg-color2);
-}
+
+.game_link {background-color: var(--accent-color2);}
+.other_link {background-color: var(--accent-color3);}
 
 select, button {
   background-color: var(--bg-color2);

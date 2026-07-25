@@ -1,5 +1,5 @@
 var games = {
-  "bunny-clicker":{name:"Bunny Clicker",author:"orteil",tags:["animals"],release:"???"},
+  "bunny-clicker":{name:"Bunny Clicker",author:"orteil",tags:["animals"],release:"2017-07-25"},
   "fake-money-clicker":{name:"Fake Money Clicker",author:"fractyl",tags:["economy","pyigmg","joke"],release:"2024-05-05"},
   "milk-game":{name:"Get a Glass of Milk Because You Have To",author:"rylie-eric",tags:["food","story"],release:"2021-08-24"},
   "space-station-manager":{name:"Space Station Manager",author:"kasperja",tags:["space","pyigmg","technology"],release:"2022-08-19"},
@@ -39,7 +39,7 @@ var games = {
   "phone-maker":{name:"Phone Maker",author:"tgrein",tags:["technology"],release:"2022-04-08",related:["phone-maker-2"]},
   "phone-maker-2":{name:"Phone Maker 2",author:"tgrein",tags:["technology"],release:"2022-11-01",related:["phone-maker"]},
   "factory-maker":{name:"Factory Maker",author:"tgrein",tags:["no-other-tags"],release:"2022-10-08"},
-  "burger-clicker":{name:"Burger Clicker",author:"orteil",tags:["food","old-igm"],release:"???"},
+  "burger-clicker":{name:"Burger Clicker",author:"orteil",tags:["food","old-igm"],release:"2014-01-02"},
   "mushroom-clicker":{name:"Mushroom Clicker",author:"sage",tags:["food","game-jam"],release:"2024-10-21"},
   "loft-clicker":{name:"Loft Clicker",author:"arandomexican",tags:["food","animals"],release:"2025-01-28"},
   "shopping-mall-tycoon":{name:"Shopping Mall Tycoon",author:"dtji-psimfans",tags:["business"],release:"2018-04-27"},
@@ -54,7 +54,7 @@ var games = {
   "qr-code-clicker":{name:"QR Code Clicker",author:"sunnystew",tags:["no-other-tags"],release:"2023-01-26"},
   "dog-clicker":{name:"Dog Clicker",author:"arandomexican",tags:["animals"],release:"2024-03-27"},
   "human-clicker":{name:"Human Clicker",author:"kaarnij666",tags:["civilization"],release:"2022-09-15"},
-}
+};
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},
   "rylie-eric":{name:"Rylie Eric", aka:["Agentperson","AgentRylie"]},
@@ -79,7 +79,7 @@ var authors = {
   "arandomexican":{name:"ARandoMexican"},
   "kaarnij666":{name:"KaarNij666"},
   "bilingualistic":{name:"Bilingualistic"},
-}
+};
 var tags = {
   "space":{desc:"Game about space and/or set in space."},
   "economy":{desc:"Games focused around money and/or the economy."},
@@ -102,9 +102,9 @@ var tags = {
   "educational":{desc:"Educational games."},
   "history":{desc:"Games set in the past."},
   "no-other-tags":{desc:"Games with no other tags."},
-}
+};
 var pages = [
   "about",
   "igm-game-jam-2025"
-]
+];
 

@@ -4,6 +4,3 @@
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/Stone%20Mine%20Simulator.txt">Game link (2024 restored version)</a>
 <h2>Details</h2>
 <p>This game was created during 2019 and ceased development during 2020. It was originally known as "Mine!" before being renamed. The current playable version has CSS which was created in 2024.</a>
-<h2>Related Games</h2>
-Stone Mine Simulator 2 (first sequel)<br>
-Stone Mine Simulator 2024 (second sequel)<br>

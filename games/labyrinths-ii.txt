@@ -3,4 +3,4 @@ A fast-paced dungeon crawler where you explore through a multitude of dungeons f
 <h2>Links</h2>
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/Labyrinths%20II.txt">Game link</a><br>
 <h2>Details</h2>
-<p>Labyrinths II is the sequel to <a href="./?g=the-lost-labyrinths">The Lost Labyrinths</a>.</p>
+<p>Labyrinths II is the sequel to <a href="./?g=the-lost-labyrinths">The Lost Labyrinths</a>. Unlike its predecessor, this game takes place entirely in the titular labyrinths. It features greatly improved CSS, improving balancing and combat, and several QoL improvements. The game's first Alpha version was released after a month of private development, but work on the next Alpha would slow down to a crawl following the next patch.<br><br>Teasers of Alpha 2 began surfacing near the end of 2025, and promised a complete overhaul of the entire game. While progress on Labyrinths II was steady for a decent while, LG slowly lost motivation and interest in the project, leading to it being shelved in mid-2026.<br><br>All icons are made by <a href="./?a=hyphen">hyphen-lost</a>.</p>
