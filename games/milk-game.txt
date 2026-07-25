@@ -1,12 +1,12 @@
 <h2>Description</h2>
 Drink milk all because some narrator forces you to. Or don't... not like he's gonna kill you or something. He's just the narrator.
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/qe3QE74B">Game link</a><br>
-<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/XSIm8ZidV1rvya38/cheesecake.txt">"Cheesecake" link (April Fools)</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/qe3QE74B">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/XSIm8ZidV1rvya38/cheesecake.txt">"Cheesecake" link (April Fools)</a>
 <h2>Details</h2>
 <p>Get a Glass of Milk Because You Have To (sometimes shortened to Milk Game or GaGoMBYHT) is a game where you explore the city of Lint Yard, Alabama to get a glass of milk (or not). You can move around a grid-based environment and interact with objects around you. A narrator narrates your adventure as you attempt to obtain the 11 possible endings, although this narrator tends to break convention and talk to you and the other characters.</p>
 <p>This game was inspired by the Roblox game <em>Get a Snack at 4am</em>, which follows a similar structure of interacting with an environment in different ways to get one of many endings.</p>
-<p>This game was posted in r/idlegammaker, DashNet, and Rylie's personal site.</p>
+<p>This game was posted in r/idlegamemaker, DashNet, and Rylie's personal site.</p>
 <p>This game was preceded by several demos exploring different aspects of the game, such as the log and the movement system. An alternate "Cheesecake" version was released for April Fools 2023.</p>
 <h2>Other links</h2>
 <a href="https://rylieeric.neocities.org/projects/Milk">Page on Rylie Eric's website</a><br>

@@ -170,18 +170,19 @@ h1 {
   margin-top:0;
 }
 
-.tag {
+.tag, .game_link {
   background-color:var(--accent-color);
   color:var(--bg-color2);
   text-decoration: none;
   padding:2px;
   border-radius:5px;
   box-shadow:0 1px 0 #00000088,0 0 3px #ffffff88 inset;
+  margin:3px;
 }
-.tag:hover {
+.tag:hover, .game_link:hover {
   color:var(--bg-color2);
 }
-.tag:visited {
+.tag:visited, .game_link:visited {
   color:var(--bg-color2);
 }
 

@@ -2,4 +2,4 @@
 This is a game where you manage an airport and earn as much money as possible.
 Happy working!
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Ngr9aBLk">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Ngr9aBLk">Game link</a>

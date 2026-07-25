@@ -1,8 +1,8 @@
 <h2>Description</h2>
 A game about gaining as much fake money as possible by making bills and selling goods.
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/7A1WPA9j">Latest link</a><br>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/FqNyniC3">v0.1 link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/7A1WPA9j">Latest link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/FqNyniC3">v0.1 link</a>
 <h2>Details</h2>
 <p>In Fake Money Clicker, you draw fake dollar bills which you use to hire others to draw them for you. You buy printers and factories to print fake money, trees to grow fake money, and laboratories to create fake money using science! Farms and mines produce goods, which you sell using shops to gain fake money. You can conduct research and buy different fake currencies and fake goods.
 </p><p>

@@ -1,7 +1,7 @@
 <h2>Description</h2>
 Delve into the mines, bake delicious treats for profit, and go for the gold in this reimagining of 2022's Stone Mine Simulator 2!<br>
 <h2>Links</h2>
-<a href=">https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/SMS%20%2724.txt">Game Link</a>
+<a class="game_link" href=">https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/SMS%20%2724.txt">Game Link</a>
 <h2>Details</h2>
 <p>Stone Mine Simulator 2024 is a clicker game where you mine stone, buy strange buildings, and play minigames to mine more stone. Starting off with nothing but your trusty pickaxe, work your way through the mines by buying unique, yet odd buildings, clicking Golden Stones for various buffs, and researching different trees of upgrades to further increase your stone production.</p>
 <p>This game is the third installment in the Stone Mine Simulator series, preceded by Stone Mine Simulator and Stone Mine Simulator 2.</p>

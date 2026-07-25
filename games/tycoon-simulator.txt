@@ -1,4 +1,4 @@
 <h2>Description</h2>
 <p>You live in a world where anything is possible. Start as a homeless man, climb your way up the social ladder and make millions!</p>
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/YYjCqvtBp0P7hcN1/tycoonSim100.txt">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/YYjCqvtBp0P7hcN1/tycoonSim100.txt">Game link</a>

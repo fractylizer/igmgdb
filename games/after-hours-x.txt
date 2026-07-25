@@ -1,8 +1,8 @@
  <h2>Description</h2>
 A point-and-click horror game where you work in the depths of Santa's workshop, fighting against what lurks in the shadows. Make it through the last five days 'til Christmas for that sweet holiday bonus. And maybe some therapy.
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/AfterHoursX.txt">Game link</a>
-<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/YzZzxtT39TTHP4pp/IGM/gamejam/1/LG.txt">Jam version link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/AfterHoursX.txt">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/YzZzxtT39TTHP4pp/IGM/gamejam/1/LG.txt">Jam version link</a>
 <h2>Details</h2>
 The gamplay is primarily inspired by FNAF 1 and FNAF 3.<br>The game was created for the <a href="./?p=igm-game-jam-2025">IGM Game Jam 2025</a>, and placed #1 out of 5 games submitted.
 <h2>Other Links</h2>

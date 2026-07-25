@@ -1,6 +1,6 @@
 <h2>Description</h2>
 Journey out, trade and upgrade your spaceship.
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Ki0HEPA1">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Ki0HEPA1">Game link</a>
 <h2>Other Links</h2>
 <a href="https://www.reddit.com/r/idlegamemaker/comments/16thwky/hellion_scarab/">Reddit post</a>

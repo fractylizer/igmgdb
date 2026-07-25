@@ -1,7 +1,7 @@
 <h2>Description</h2>
 A game about watching paint dry on a fence.
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/tAh6iiCa">Game link</a><br>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/tAh6iiCa">Game link</a><br>
 <h2>Details</h2>
 <p>Literally Watch Paint Dry is a game where you do the action mentioned in the title. You can buy items to have seconds go up automatically. The Friend also boosts you click power. This game was posted in Rylie's personal site, r/idlegamemaker, and the DashNet Forums Discord server.</p>
 

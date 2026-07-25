@@ -2,4 +2,4 @@
 This is a game where you build a modern house by obtaining money and providing electricity.
 Happy working!
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/zsSn5bJd">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/zsSn5bJd">Game link</a>

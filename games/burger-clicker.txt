@@ -1,5 +1,5 @@
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/experiments/idlegamemaker/?game=https://pastebin.com/raw/YrmTqheS">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/experiments/idlegamemaker/?game=https://pastebin.com/raw/YrmTqheS">Game link</a>
 <h2>Details</h2>
 <p>This is a simple idle game created by Orteil to showcase some of the functionality of the old Idle Game Maker prototype. It is linked to in the <a href="https://orteil.dashnet.org/experiments/idlegamemaker/help">old IGM handbook</a>. The image host used has since gone offline so the game is devoid of icons.</p>
 <h2>Other Links</h2>

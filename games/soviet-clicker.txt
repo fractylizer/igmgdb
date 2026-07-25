@@ -1,8 +1,8 @@
 <h2>Description</h2>
 Make as many rubles as possible by hiring babushkas and being friends with Stalin!
 <h2>Links</h2>
-<a href="https://fractyl.neocities.org/g/soviet.html">Game Link (on Fractyl's website)</a><br>
-<a href="https://orteil.dashnet.org/igm/index.html?g=https://pastebin.com/raw/Lse0aAxa">Game Link (direct)</a>
+<a class="game_link" href="https://fractyl.neocities.org/g/soviet.html">Game Link (on Fractyl's website)</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/index.html?g=https://pastebin.com/raw/Lse0aAxa">Game Link (direct)</a>
 <h2>Details</h2>
 <p>In Soviet Clicker, you use the power of the Soviet Union to create rubles. You can hire babushkas to help you, but if you exceed 1000 rubles your money will be confiscated! You can build food stores, but starving citizens will destroy them unless you make peace or kill them. The goal is to make as many rubles as possible, and eventually ascend.</p>
 <p>Soviet Clicker began development on the 6th of September 2023. It was originally created for Fractyl's friend Fishycomix, and was shared privately among friends and on Fractyl's website. The game was updated most often during 2023, with many additions being suggestions from Fishycomix and others. In 2024, the game only received occassional updates. There were several small updates in late March before Fractyl moved on to creating Fake Money Clicker. The game was released on the DashNet Forums Discord along with Fake Money Clicker on the 5th of May 2024.</p>

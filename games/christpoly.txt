@@ -1,7 +1,7 @@
 <h2>Description</h2>
 A unique board-like game where you purchase land, upgrade them and, hopefully, get paid. Has unique features like a Respect System, unstable and stealable land blocks and custom bots that can play against you!
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/XYIlW7cqBDVk_Xim/Christpoly.txt">Game link</a><br>
-<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/YzZzxtT39TTHP4pp/IGM/gamejam/1/FrenzY.txt">Jam version link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/XYIlW7cqBDVk_Xim/Christpoly.txt">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/YzZzxtT39TTHP4pp/IGM/gamejam/1/FrenzY.txt">Jam version link</a>
 <h2>Details</h2>
 The game was created for the <a href="./?p=igm-game-jam-2025">IGM Game Jam 2025</a>, and placed #3 out of 5 games submitted. It is inspired by the board game Monopoly and its name is a portmanteau of Christmas and Monopoly.

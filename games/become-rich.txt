@@ -1,7 +1,7 @@
 <h2>Description</h2>
 A half-joke game about earning boatloads of money... narrated with atrocious grammar. Collect cash, get an education, research technology, and do slightly evil things in this poorly-made incremental game.
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://raw.githubusercontent.com/boshkihmm/richgame/main/public">Game Link</h2>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://raw.githubusercontent.com/boshkihmm/richgame/main/public">Game Link</a>
 <h2>Details</h2>
 <p>The gameplay mostly involves purchasing buildings that cost and/or produce money and/or "smartness". Money and smartness can also be used to purchase upgrades, which are unlocked after buying buildings. There are also buildings with special effects that may not produce anything directly. There are two resources that take time to manually produce: research points and evil points. These can be used to purchase special upgrades, and they each have their own associated buildings.</p>
 <p>All of the text in the game is purposely filled with typos and grammatical errors to evoke a sense of incompetence, to match the haphazard nature of the game. The sprites were created by <a href="./?a=hyphen">hyphen-lost</a>.</p>

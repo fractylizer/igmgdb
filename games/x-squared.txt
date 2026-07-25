@@ -1,5 +1,5 @@
 <h2>Description</h2>
 A minimalist idle game about research and math. Publish papers, punish with puns, and contribute your part to the sum of all human knowledge.
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/index.html?g=https://file.garden/Y36WipOdi23QPRqg/XSquared-LIVE.txt">Game link (direct)</a><br>
-<a href="https://scrambledrubiks.neocities.org/games/x-squared">Game link (on ScrambledRubiks' website)</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/index.html?g=https://file.garden/Y36WipOdi23QPRqg/XSquared-LIVE.txt">Game link (direct)</a>
+<a class="game_link" href="https://scrambledrubiks.neocities.org/games/x-squared">Game link (on ScrambledRubiks' website)</a>

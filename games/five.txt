@@ -1,6 +1,6 @@
 <h2>Description</h2>
 Click the number 5 until you rate 5 stars on goolge 5!
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/uhK41TJ8">Game Link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/uhK41TJ8">Game Link</a>
 <h2>Details</h2>
 The game mostly involves purchasing three buildings, all named 5, to produce 5. There are six upgrades for each building, which all multiply that building's production by 2. Once 555555 fives have been produced, there is a chance for the big 5 button to give a 2. The game then continues the same, with 3 buildings and six upgrades each, but these instead produce the number 2.

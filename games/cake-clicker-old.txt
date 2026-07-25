@@ -1,8 +1,8 @@
 <h2>Description</h2>
 A game about making as much cake as possible.
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/K0uhYs6j">Main link</a><br>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/CQD9Drgj">Beta testing version (outdated)</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/K0uhYs6j">Main link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/CQD9Drgj">Beta testing version (outdated)</a>
 <h2>Details</h2>
 In Cake Clicker, you click an oven to bake muffins. You can buy ovens that do this automatically, and you expand your business from there. From casinos to crypto to quarks, you'll do anything to bake more cake.<br>
 Cake Clicker was posted in r/idlegamemaker and the Dashnet Forums discord. It was Fractylizer's first IGM game, created on the 22nd of August 2021. It was updated heavily in August and September, but only received occasional updates every couple months. Just after the game's one-year anniversary, Fractyl announced the development of a <a href="./?g=cake-clicker">newer version</a>. Since then, the old version has not been updated.

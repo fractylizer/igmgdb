@@ -1,4 +1,4 @@
 <h2>Description</h2>
 Rockets!
 <h2>Links</h2>
-<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/afGJZ28R">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/afGJZ28R">Game link</a>
