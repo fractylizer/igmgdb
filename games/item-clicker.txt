@@ -1,0 +1,4 @@
+<h2>Description</h2>
+An game about making items to make more items.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Z4cWnxYD">Game link</a>

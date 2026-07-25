@@ -1,0 +1,5 @@
+<h2>Description</h2>
+The game where you make a large factory using factories!
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/L0EVgjCE">Alpha link</a><br>
+<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/RaSisthF">Beta link</a>

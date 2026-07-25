@@ -1,0 +1,8 @@
+<h2>Description</h2>
+<p>You live in a universe where floods will never occur, logs are your main currency. Collect as many logs as possible for the sake of supply!</p>
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/Zmg4Whur8CTA__tu/Wood+Collector+CSS+Version.txt">Game link</a>
+<h2>Details</h2>
+<p>This game was the focus of the <a href="https://www.youtube.com/watch?v=5RoJYRoxFls">3rd episode</a> of <a href="/?a=irondizaster">IronDizaster</a>'s Playing Your Idle Game Maker Games series.</p>
+<h2>Other links</h2>
+<a href="https://www.youtube.com/watch?v=5RoJYRoxFls">PYIGMG episode about Wood Clicker Digital</a>

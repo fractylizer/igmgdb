@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+@font-face {
+    font-family: IGM;
+    src: url('./fonts/IGM.ttf');
+}
+
+:root {
+  --accent-color: #d390ab;
+  --bg-color: #0b2f51;
+  --bg-color2: #1f1931;
+  --text-color: #fceaff;
+}
+
+* {
+  color: var(--text-color);
+  font-family: "Roboto Slab", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+::selection {
+  background: var(--accent-color);
+  color: var(--bg-color);
+}
+
+body {
+  background-color: var(--bg-color2);
+  margin: 0;
+	background-size: 65px;
+}
+
+#headerArea {
+  background-color: var(--bg-color);
+  border-radius:10px;
+  margin-top:10px;
+  box-shadow:0 4px 4px #00000088,0 0 10px #ffffff88 inset;
+}
+
+header {
+  background-image: url("./images/header.png");
+  background-size: 100%;
+  background-position: top;
+  padding-bottom: 15.90909090909%;
+  border-radius:10px;
+}
+
+
+nav {
+  height: 50px;
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  justify-content: space-evenly;
+}
+
+nav li {
+  padding-top: 10px;
+}
+
+nav li a {
+  font-weight:bold;
+  font-size:1.3em;
+  text-decoration: none;
+}
+
+a {
+  color: var(--accent-color);
+}
+a:visited {
+  color: var(--accent-color);
+}
+a:hover {
+  color: var(--text-color);
+  text-decoration: underline;
+}
+
+ul { list-style-type: square; }
+
+#sidebar {
+  background-color: var(--bg-color);
+  width: 12em;
+  padding: 20px;
+	order: 1;
+  font-size: smaller;
+	border-radius: 10px;
+  box-shadow:0 4px 4px #00000088,0 0 10px #ffffff88 inset;
+}
+
+#flex {
+  display: flex;
+}
+#container {
+  max-width: 880px;
+  margin: auto;
+}
+main {
+  background-color: var(--bg-color);
+  flex: 1;
+  order: 2;
+  word-wrap: break-word;
+  border-radius: 10px;
+  padding: 0;
+  box-shadow:0 4px 4px #00000088,0 0 10px #ffffff88 inset;
+}
+
+.content {
+  padding:1.4em
+}
+h1,
+h2,
+h3{
+	color: var(--accent-color);
+  border-bottom: 2px dashed var(--accent-color);
+  text-shadow:0 1px 0 #00000088;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+.game_box {
+  width:250px;
+  border:1px solid var(--accent-color);
+  padding:10px;
+  margin:10px;
+  vertical-align: top;
+  display:inline-block;
+  text-decoration: none;
+  border-radius:20px;
+  box-shadow:0 4px 4px #00000088,0 0 8px #ffffff55 inset;
+}
+.game_box:hover {
+  text-decoration: none;
+  background-color: #ffffff4d;
+}
+.game_box .image {
+  height:100px;
+  background-size: cover;
+  background-position: center;
+  border-radius:10px;
+  border:1px solid var(--accent-color);
+  box-shadow:0 4px 4px #00000088 inset;
+}
+.game_box p {
+  margin:2px;
+}
+.game_box .title {
+  font-weight:bold;
+  font-size:1.2em;
+}
+.game_box .author {
+  color:#ffffffdd;
+}
+
+.banner {
+	width: 100%;
+	padding: 0px;
+  height:100px;
+  margin:0;
+  background-size:cover;
+  background-position: center;
+  border-radius: 10px 10px 0 0;
+  box-shadow:0 0 8px #ffffff88 inset;
+}
+.content h1 {
+  margin-top:0;
+}
+
+.tag {
+  background-color:var(--accent-color);
+  color:var(--bg-color2);
+  text-decoration: none;
+  padding:2px;
+  border-radius:5px;
+  box-shadow:0 1px 0 #00000088,0 0 3px #ffffff88 inset;
+}
+.tag:hover {
+  color:var(--bg-color2);
+}
+.tag:visited {
+  color:var(--bg-color2);
+}
+
+select {
+  background-color: var(--bg-color2);
+  border:1px solid var(--accent-color);
+}
+
+@media only screen and (max-width: 880px) {
+	#flex {
+		flex-wrap: wrap;
+  }
+	main {
+		order: 1;
+		width:100%;
+	}
+	main h1, h2, h3, p, img {
+		padding-left: 0.5em;
+	}
+    #sidebar {
+		order: 2;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        border: none;
+    }
+	main, #sidebar, .banner {border-radius: 0;}
+    #sidebar ul {   
+        margin: 0 1em;
+        display: flex;
+        flex-wrap: wrap;
+        line-height: 2em;
+    }
+    #sidebar li {
+        padding-left: 0;
+        margin: .3em 1em;
+    }
+    .img-right {
+        float: none;
+        text-align: center;
+    }
+}

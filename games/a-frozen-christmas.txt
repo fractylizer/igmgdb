@@ -1,0 +1,7 @@
+<h2>Description</h2>
+In the middle of nowhere, you wake up in a cold winter storm... you'll need to scavenge whatever you can find if you want to survive...
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/Y3WCFJOdi23QPQVx/jam/A_Frozen_Christmas">Game link</a><br>
+<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/YzZzxtT39TTHP4pp/IGM/gamejam/1/Boshki.txt">Jam version link</a>
+<h2>Details</h2>
+The game was created for the <a href="./?p=igm-game-jam-2025">IGM Game Jam 2025</a>, and placed #2 out of 5 games submitted.

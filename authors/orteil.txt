@@ -1,0 +1,5 @@
+Orteil is a game developer and pixel artist most well known for his JS game Cookie Clicker, who also created this here Idle Game Maker.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/">Orteil's website</a><br>
+<a href="https://discord.gg/cookie">Orteil's Discord server</a><br>
+<a href="https://orteil42.tumblr.com/">Orteil's Tumblr</a>

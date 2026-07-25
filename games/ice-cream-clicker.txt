@@ -1,0 +1,10 @@
+<h2>Description</h2>
+An idle game about making ice cream.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/XYIlW7cqBDVk_Xim/forez%20dream.txt">Live link (v1.0.1)</a><br>
+<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/XYIlW7cqBDVk_Xim/forez%20dream.txt">Beta link (v1.1.0.3)</a>
+<h2>Details</h2>
+<p>Ice Cream Clicker involves buying different buildings to make ice cream, and includes a plethora of upgrades and ice cream variants. The beta version has a prestige system and 241 achievements total.
+<p>The game was created on March 16th 2022, released on Reddit on March 30th, and on the DashNet Forums Discord server on July 22nd. Development ceased during 2023 and there have been no announcements regarding the game since then.</p>
+<h2>Other links</h2>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/trxno1/ice_cream_clicker/">Reddit Post</a><br>

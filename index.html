@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IGM Games Database</title>
+  <link href="./style.css" rel="stylesheet" type="text/css" media="all">
+  <link href="./images/favicon.ico" rel="icon">
+</head>
+<body>
+  <div id="container">
+    <div id="headerArea">
+      <header></header>   
+      <nav id="navbar" style="margin-bottom: 10px;">
+        <ul>
+          <li><a href="./">Home</a></li>
+          <li><a href="./?p=games">Games</a></li>
+          <li><a href="./?p=authors">Authors</a></li>
+          <!--<li><a href="./">Updates</a></li>-->
+          <li><a href="./?p=about">About</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div id="flex">
+      <aside id="sidebar" style="margin-right: 10px;">
+        <h2>Featured Pages</h2>
+        <ul>
+        <li><a href="./?g=cargohold-idle">CargoHold Idle</a>
+        <li><a href="./?g=soviet-clicker">Soviet Clicker</a>
+        <li><a href="./?g=five">Five</a>
+        </ul>
+        <h2>Theme</h2>
+        <select id="theme_select">
+          <option>Default</option>
+          <option>More Blue</option>
+          <option>Red</option>
+          <option>Green</option>
+          <option>Magenta</option>
+          <option>Black</option>
+          <option>Yellow</option>
+        </select>
+      </aside>
+      <main id="main"></main>
+    </div>
+  </div>
+<script src="./data.js"></script>
+<script src="./script.js"></script>
+</body>
+</html>

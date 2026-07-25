@@ -1,0 +1,4 @@
+<h2>Description</h2>
+A clicker game about painting many different colors.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/B4Q1rS33">Game link</a>

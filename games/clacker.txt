@@ -1,0 +1,7 @@
+<h2>Description</h2>
+Implement good cyber security procedures to stop as many hackers as possible!
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/qD96WR2a">Game link</a>
+<h2>Details</h2>
+<p>From the creator on Discord:</p>
+<p>"I'm a PhD student researching cyber security training methods, and I created a game in Idle Game Maker, intended as a bit of a joke to demonstrate how crap the games that researchers have been coming up with are, and how easily I could match their games by using the template of an existing established game. Things got a little out of hand, and it's become one of the main building blocks of my PhD and I'm taking it to participate in a game competition at a conference in 2 weeks, plus I am submitting a paper on my study using it as well."</p>

@@ -1,0 +1,5 @@
+<h2>Description</h2>
+Slowly build a massive empire of forces to destroy some mysterious walls and eventually unlock the deep lore.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/experiments/idlegamemaker/?game=https://pastebin.com/raw/hczBgm6k">Original link (broken)</a><br>
+<a href="https://orteil.dashnet.org/experiments/idlegamemaker/?game=https://file.garden/aAyQWV7d7lPDyVAY/Wall%20Destroyer.txt">Rehosted link</a>

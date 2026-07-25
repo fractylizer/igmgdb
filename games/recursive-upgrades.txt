@@ -1,0 +1,8 @@
+<h2>Description</h2>
+A game about farming mushrooms with the help of witches, spaceships, and the Mario brothers.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/index.html?g=https://pastebin.com/raw/ys0Tdq9p">Game Link</a>
+<h2>Details</h2>
+<p>Be warned: this game is exceedingly short, easy, and themeless.</p>
+<h2>Other Links</h2>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/1u8mf4k/recursive_upgrades/">Reddit post</a>

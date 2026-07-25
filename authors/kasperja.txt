@@ -1,0 +1,4 @@
+Kasperja is a game developer who makes IGM games known for their impressive visuals, futuristic theme, and unique gameplay. Aside from IGM, they have recently made a JS based idle game called Credits Idle Empire.
+<h2>Links</h2>
+<a href="https://kasperja.com/">Kasperja's website</a><br>
+<a href="https://www.reddit.com/user/kasperja/">Kasperja's Reddit profile</a>

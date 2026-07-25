@@ -1,0 +1,8 @@
+<h2>Description</h2>
+<p>Produce spinoffs of spinoffs of spinoffs of spinoffs...<br>...until you can buy the original media!</p>
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/pBiQFc1j">Game link</a>
+<h2>Details</h2>
+<p>In The Spinoff Game, you buy <em>The Spinoff Game Show</em>, which is free. This is a spinoff of <em>Game Show Extraordinaire</em>, which is a spinoff of <em>Ultimate Trivia Showdown Extravaganza</em>, and so on. Each spinoff costs 100 of the spinoff of the spinoff of that spinoff and gives 1 of the spinoff of that spinoff every second. There are 30 spinoffs and 1 final item. The final item is <em>The Big Bang Theory</em>, which costs 50 <em>Young Sheldon</em>. Buying it grants the "You did it!" achievement. Each spinoff typically has a similar name to the adjacent spinoffs, but over greater differences the names vary wildly and often devolve into nonsense.</p>
+<p>The game is entirely linear, with there being minimal decision making aside from buying the spinoffs in sequence. Due to the way spinoffs produce each other, the amount of each spinoff grows exponentially as you progress. Combined with the default IGM exponential price increase, spinoffs will begin to cost infinite amounts very quickly.</p>
+<p>The Spinoff Game was created on the 26th of June 2024. It began development at around 5:30 pm and the 30 spinoffs and 1 final item were finished at around 6:00pm. The game was released on the Dashnet Forums Discord at 6:21 pm and Fractyl's Discord at 7:11pm.</p>

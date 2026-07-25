@@ -1,0 +1,11 @@
+<h2>Description</h2>
+Delve into the mines, bake delicious treats for profit, and go for the gold in this reimagining of 2022's Stone Mine Simulator 2!<br>
+<h2>Links</h2>
+<a href=">https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/SMS%20%2724.txt">Game Link</a>
+<h2>Details</h2>
+<p>Stone Mine Simulator 2024 is a clicker game where you mine stone, buy strange buildings, and play minigames to mine more stone. Starting off with nothing but your trusty pickaxe, work your way through the mines by buying unique, yet odd buildings, clicking Golden Stones for various buffs, and researching different trees of upgrades to further increase your stone production.</p>
+<p>This game is the third installment in the Stone Mine Simulator series, preceded by Stone Mine Simulator and Stone Mine Simulator 2.</p>
+<p>Development began on July 9, 2024, after LG decided he wanted to make a short clicker game before his sophomore year of high school started. The game was finished after around 4 weeks of development and testing, being released on August 8, 2024. It can be found on the Dashnet Forums Discord server, Reddit, LG's personal web site, and LG's Discord server. Future post-launch updates are planned, although no release date has been given at the time of writing this.</p>
+<h2>Other links</h2>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/1enleqr/stone_mine_simulator_2024/">Reddit Post</a><br>
+<a href="https://lgplayer13.neocities.org/games/sms-24">Page on LG Productions Website</a>

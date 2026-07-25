@@ -1,0 +1,9 @@
+<h2>Description</h2>
+A game about farming mushrooms with the help of witches, spaceships, and the Mario brothers.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/index.html?g=https://pastebin.com/raw/ys0Tdq9p">Game Link</a>
+<h2>Details</h2>
+<p>The game follows a typical incremental format, with buildings that produce mushrooms and upgrades that make mushroom production more effective.</p>
+<p>The game was developed as a submission for the <a href="https://itch.io/jam/lazy-jam-autumn-2024">Lazy Developer Autumn 2024 Game Jam</a>, and was seemingly the only entry.</p>
+<h2>Other Links</h2>
+<a href="https://github.com/thealtingsage/mushroom-clicker">GitHub repository</a>

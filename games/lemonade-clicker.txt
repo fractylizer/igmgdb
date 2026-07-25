@@ -1,0 +1,5 @@
+<h2>Description</h2>
+<p>Make some lemonade in this ripoff of Cookie Clicker!</p>
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://raw.githubusercontent.com/Lexal1/lexal-IGM-games/main/lemongame">Game link</a><br>
+<a href="https://orteil.dashnet.org/igm/?g=https://raw.githubusercontent.com/Lexal1/lemon-clicker/main/code">Old version link</a>

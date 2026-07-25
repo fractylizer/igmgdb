@@ -1,0 +1,13 @@
+<h2>Description</h2>
+A game about watching paint dry on a fence.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/tAh6iiCa">Game link</a><br>
+<h2>Details</h2>
+<p>Literally Watch Paint Dry is a game where you do the action mentioned in the title. You can buy items to have seconds go up automatically. The Friend also boosts you click power. This game was posted in Rylie's personal site, r/idlegamemaker, and the DashNet Forums Discord server.</p>
+
+<p>The idea for Literally Watch Paint Dry came from Rylie's then friend (and current romantic partner) known as Jordan Sunlight / Rose, who joked about how there was no idle game about paint drying. Rylie took that joke and went further with it by making an entire game from that with a story included. The game took 4 days to complete: two days in February and 2 days in April. The game also had a play testing period from February 19 to launch day. The game launched on April 23, 2022 and is considered (by Rylie at least) to be one of her best games.</p>
+
+<p>A sequel outside of IGM called "Literally Watch Grass Grow" was originally planned to be made around June/July for the 2022 edition of the Trans Rep Jam, however it was put on hold due to Rylie losing hope in the project. The opening cutscene from that game was made into a standalone title for the Neo-Twiny jam the following year, called Listen to the Phone Ring. Literally Watch Paint Dry recevied a minor update several days later on June 7th.</p>
+<h2>Other links</h2>
+<a href="https://rylieeric.neocities.org/projects/Paint">Page on Rylie Eric's website</a><br>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/uak9y9/game_literally_watch_paint_dry/">Reddit post</a>

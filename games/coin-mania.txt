@@ -1,0 +1,8 @@
+<h2>Description</h2>
+Delve into a world governed by coins & greed, where your only friend is yourself... and a couple of paid Con Artists, of course!
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/YYjCqvtBp0P7hcN1/Coin%20Mania/Coin%20Mania%20Release%20Version.txt">Game link</a>
+<h2>Details</h2>
+<p>This game was created as an example game for <a href="https://www.youtube.com/playlist?list=PLk6ZXmsEp_yN-z3C_rRZW9O20uil-I1ri">IronDizaster's IGM tutorial series</a>. The 24 episodes explain in detail the development of Coin Mania. Because of this, the game includes basically every aspect a good IGM game should have, e.g. icons, CSS, shinies etc.</p>
+<h2>Other Links</h2>
+<a href="https://www.youtube.com/playlist?list=PLk6ZXmsEp_yN-z3C_rRZW9O20uil-I1ri">IGM tutorial series</a>

@@ -1,0 +1,4 @@
+<h2>Description</h2>
+A simple idle game about making phones.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/4GpJ3TaS">Game link</a>

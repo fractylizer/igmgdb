@@ -1,0 +1,9 @@
+<h2>Description</h2>
+An RPG where you kill monsters, collect loot and fight bosses.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/XYIlW7cqBDVk_Xim/forez%20dream.txt">Game Link</a>
+<h2>Details</h2>
+This game was posted in DashNet and r/idlegamemaker. It was also featured in Episode 2 of IronDizaster's Playing Your Idle Game Maker Games series. A sequel is currently in development.
+<h2>Other links</h2>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/lxwueo/forezs_dream_by_fragilefrenzy/">Reddit Post</a><br>
+<a href="https://discord.gg/DruCky8W2b">Discord Server</a>

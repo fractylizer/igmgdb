@@ -1,0 +1,8 @@
+<h2>Description</h2>
+A technical game where you make weird materials, build contraptions, and chat with your wacky friend.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/Fire%20Forge%20Private%20Build%20Delta.txt">Game link</a>
+<h2>Details</h2>
+This game was kept private during development and then eventually abandoned. After a new version began development, this game was released.
+<h2>Other Links</h2>
+<a href="https://lgplayer13.neocities.org/games/fire-forge">Page on LG's website</a>

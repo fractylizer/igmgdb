@@ -1,0 +1,7 @@
+
+<h2>Description</h2>
+A fast-paced dungeon crawler where you explore through a multitude of dungeons for loot, mine ore to craft better gear, and more!
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/Labyrinths%20II.txt">Game link</a><br>
+<h2>Details</h2>
+<p>Labyrinths II is the sequel to <a href="./?g=the-lost-labyrinths">The Lost Labyrinths</a>.</p>

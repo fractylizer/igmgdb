@@ -1,0 +1,5 @@
+<h2>Description</h2>
+A game where you make tons of different phones, and make money too.
+<h2>Links</h2>
+<a href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/hWpb8gMR">Game link (Pastebin)</a><br>
+<a href="https://orteil.dashnet.org/igm/?g=https://raw.githubusercontent.com/ReinIsNOTaDev/phone-maker/main/phone.txt">Game link (GitHub)</a>

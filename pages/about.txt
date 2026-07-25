@@ -1,0 +1,3 @@
+<h1>About the IGM Game Database</h1>
+<p>This is a collection of IGM games that have been created over the years.
+This website was created by <a href="./?a=fractyl">Fractyl</a> and inspired by <a href="./?a=rylie-eric">Rylie Eric</a>'s <a href="https://igmgames.github.io/">IGM Games Archive</a>.</p>
