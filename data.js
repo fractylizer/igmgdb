@@ -105,6 +105,8 @@ var tags = {
 }
 var pages = [
   "about",
-  "igm-game-jam-2025"
+  "igm-game-jam-2025",
+  "authors",
+  "games"
 ]
 
