@@ -1,0 +1,7 @@
+<h2>Description</h2>
+A game with bad spelling and absolutely no story.
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/iPvYm1wC">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/4GkdfQD7">Unreleased updates link</a>
+<h2>Details</h2>
+<p>This game unfortunately used Discord attachments to host icons and has now become devoid of icons.</p>

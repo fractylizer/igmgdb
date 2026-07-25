@@ -1,0 +1,6 @@
+<h2>Description</h2>
+A semi-afk mob grinder game. Fight mobs and get items... wait, these items are goofy...
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/XYIlW7cqBDVk_Xim/WavesFull.txt">Game Link</a>
+<h2>Other links</h2>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/1jklgok/waves_semiidle_mob_grinder/">Reddit Post</a>

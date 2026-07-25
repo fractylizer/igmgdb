@@ -7,5 +7,3 @@ In Cake Clicker, you click an oven to bake muffins. You can buy ovens that do th
 Cake Clicker was posted in r/idlegamemaker and the Dashnet Forums discord. The game is a remade version of the <a href="./?g=cake-clicker-old">original Cake Clicker</a>, which was released about a year before this version. The newer version was made because Fractyl believed the old game was ugly and unorganized. Although this version was more tidy and visually appealing, it had less content than the older version. Cake Clicker received its final update on the 13th of May 2023 and will likely never receive another update.
 <h2>Other Links</h2>
 <a href="https://www.reddit.com/r/idlegamemaker/comments/xo8pyk/cake_clicker/">Reddit Post</a>
-<h2>Related Games</h2>
-<a href="./?g=cake-clicker-old">Cake Clicker (old)</a>

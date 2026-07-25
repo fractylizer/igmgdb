@@ -8,5 +8,3 @@ In Cake Clicker, you click an oven to bake muffins. You can buy ovens that do th
 Cake Clicker was posted in r/idlegamemaker and the Dashnet Forums discord. It was Fractylizer's first IGM game, created on the 22nd of August 2021. It was updated heavily in August and September, but only received occasional updates every couple months. Just after the game's one-year anniversary, Fractyl announced the development of a <a href="./?g=cake-clicker">newer version</a>. Since then, the old version has not been updated.
 <h2>Other Links</h2>
 <a href="https://www.reddit.com/r/idlegamemaker/comments/pffqim/my_igm_game_cake_clicker_wip/">Reddit Post</a>
-<h2>Related Games</h2>
-<a href="./?g=cake-clicker">Cake Clicker (2022)</a>

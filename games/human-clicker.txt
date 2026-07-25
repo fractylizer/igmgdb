@@ -1,0 +1,8 @@
+<h2>Description</h2>
+Make humans and shoot for the stars!
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/jsgx72wG">Game link</a>
+<h2>Game details</h2>
+<p>A idle game adapted from Bunny Clicker about building a civilization of humans, with references to the Bible, chemistry, Poseidon, aliens, and dyson spheres, plus some leftover bunny-related flavour text.
+<h2>Other links</h2>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/xfjc2t/my_bunnie_clicker_ripoff_to_learn_igm/">Reddit post</a>
