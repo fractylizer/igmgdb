@@ -278,5 +278,9 @@ function setTheme(theme) {
     {"accent-color": "#cccccc","bg-color": "#111111","bg-color2": "#000000","text-color": "#ffffff"},
     {"accent-color": "#f0ed40","bg-color": "#513e0b","bg-color2": "#312b19","text-color": "#ffffff"},
   ]
+  themes.forEach(theme => {
+    theme["accent-color2"] = theme["accent-color"];
+    theme["accent-color3"] = theme["accent-color"];
+  })
   for (key in themes[theme]) {cssChange(key,themes[theme][key])}
 };
