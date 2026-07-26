@@ -6,7 +6,7 @@ Fuse the (literally) impossible. A remake of the 2019 IGM game, A Ice Cream Clic
 <p>Ice Cream Fusions is a remake of A Ice Cream Clicker. It is an idle game with a focus on fusing ice creams to get new flavors. You get cones to get ice cream, which can be sold for cash or fused into other flavors. Buildings can be bought with cash while upgrades are bought with ice creams.<br><br>The game released as an early alpha in the Beans Street Supermarket discord server on October 22, 2022. <a href = "https://rylieeric.neocities.org/posts/2023-01-08-PM-Pancake-Maker">According to Rylie in the post mortem for Pancake Maker</a>, Rylie stated that she remade the game as she wanted to come back to it. The game would also be released on DashNet the following January on New Year's.<br><br>On March 11, 2023, Alpha 2 would release. It featured 16 new flavors, Tiers 6 and 7, 9 achievements, some new icons, settings, 1 new building, and 1 new uprgade. Alpha 3 is currently planned and is almost complete, but no release date has been given. Alpha 3 is supposely going to include a new sell menu, auto-sell, bulk-fusing, fusion discovery, rare ice cream gains, 3 new achievements, and a storyline.</p>
 <h2>Other Links</h2>
 <a class="other_link" href="https://rylieeric.neocities.org/projects/ICC">Page on Rylie Eric's website</a>
-<a class="other_link" href="https://discord.gg/Xc5ETCRtVG">Discord Server</a>
+<a class="other_link" href="https://discord.gg/Xc5ETCRtVG">Discord server</a>
 <h2>Related Games</h2>
 A Ice Cream Clicker (the original game)<br>
 Neapolitan (Non-IGM) (Vanilla is based on the original game)

@@ -3,4 +3,4 @@ A game about making pizzas. Simple enough, right?
 <h2>Links</h2>
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/MNCSJLsV">Game Link</a>
 <h2>Details</h2>
-This game was featured in Episode 1 of <a href="?a=irondizaster">IronDizaster</a>'s <a href="?p=irondizaster-pyigmg">Playing Your Idle Game Maker Games</a> series.
+This game is featured in Episode 1 of <a href="?a=irondizaster">IronDizaster</a>'s <a href="?p=irondizaster-pyigmg">Playing Your Idle Game Maker Games</a> series.

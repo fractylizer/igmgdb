@@ -5,6 +5,6 @@ An RPG where you kill monsters, collect loot and fight bosses.
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Dz9XQqvH">v0.16 Link</a>
 <h2>Details</h2>
 <p>This game was posted in DashNet and r/idlegamemaker. It is also featured in Episode 2 of <a href="?a=irondizaster">IronDizaster</a>'s <a href="?p=irondizaster-pyigmg">Playing Your Idle Game Maker Games</a> series. A sequel is currently in development.</p>
-<h2>Other links</h2>
-<a class="other_link" href="https://www.reddit.com/r/idlegamemaker/comments/lxwueo/forezs_dream_by_fragilefrenzy/">Reddit Post</a><br>
-<a class="other_link" href="https://discord.gg/DruCky8W2b">Discord Server</a>
+<h2>Other Links</h2>
+<a class="other_link" href="https://www.reddit.com/r/idlegamemaker/comments/lxwueo/forezs_dream_by_fragilefrenzy/">Reddit post</a><br>
+<a class="other_link" href="https://discord.gg/DruCky8W2b">Discord server</a>

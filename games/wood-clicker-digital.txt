@@ -3,6 +3,6 @@
 <h2>Links</h2>
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/Zmg4Whur8CTA__tu/Wood+Collector+CSS+Version.txt">Game link</a>
 <h2>Details</h2>
-<p>This game was the focus of the <a href="https://www.youtube.com/watch?v=5RoJYRoxFls">3rd episode</a> of <a href="/?a=irondizaster">IronDizaster</a>'s Playing Your Idle Game Maker Games series.</p>
-<h2>Other links</h2>
-<a href="https://www.youtube.com/watch?v=5RoJYRoxFls">PYIGMG episode about Wood Clicker Digital</a>
+<p>This game is the focus of the <a href="https://www.youtube.com/watch?v=5RoJYRoxFls">3rd episode</a> of <a href="/?a=irondizaster">IronDizaster</a>'s Playing Your Idle Game Maker Games series.</p>
+<h2>Other Links</h2>
+<a class="other_link" href="https://www.youtube.com/watch?v=5RoJYRoxFls">PYIGMG episode about Wood Clicker Digital</a>

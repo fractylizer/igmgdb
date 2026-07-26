@@ -6,4 +6,3 @@ A game about gaining as much fake money as possible by making bills and selling 
 <p>In Christmas Cheer Clicker, you give gifts and buy warious buildings to produce Christmas cheer. You buy printers and factories to print fake money, trees to grow fake money, and laboratories to create fake money using science! Farms and mines produce goods, which you sell using shops to gain fake money. You can conduct research and buy different fake currencies and fake goods.
 </p><p>
 Christmas Cheer Clicker was made as a submission for the <a href="./?p=igm-game-jam-2025">IGM Game Jam 2025</a>. It came 4th out of 5 games overall.</p>
-<h2>Other Links</h2>

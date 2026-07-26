@@ -5,4 +5,4 @@ A technical game where you make weird materials, build contraptions, and chat wi
 <h2>Details</h2>
 This game was kept private during development and then eventually abandoned. After a new version began development, this game was released.
 <h2>Other Links</h2>
-<a href="https://lgplayer13.neocities.org/games/fire-forge">Page on LG's website</a>
+<a class="other_link" href="https://lgplayer13.neocities.org/games/fire-forge">Page on LG's website</a>

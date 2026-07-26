@@ -1,2 +1,2 @@
 <h2>Links</h2>
-<a href="https://sites.google.com/view/theory-realms/home">Aeries18's website</a>
+<a class="other_link" href="https://sites.google.com/view/theory-realms/home">Aeries18's website</a>

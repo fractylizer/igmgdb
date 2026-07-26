@@ -3,4 +3,4 @@ A game about pizza.
 <h2>Links</h2>
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/dr9FEuct">Game link</a>
 <h2>Other Links</h2>
-<a href="https://www.reddit.com/r/idlegamemaker/comments/161jgqs/made_a_little_game_and_spent_way_too_long_on_it/">Reddit post</a>
+<a class="other_link" href="https://www.reddit.com/r/idlegamemaker/comments/161jgqs/made_a_little_game_and_spent_way_too_long_on_it/">Reddit post</a>

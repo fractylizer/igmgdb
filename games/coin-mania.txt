@@ -5,4 +5,4 @@ Delve into a world governed by coins & greed, where your only friend is yourself
 <h2>Details</h2>
 <p>This game was created as an example game for <a href="https://www.youtube.com/playlist?list=PLk6ZXmsEp_yN-z3C_rRZW9O20uil-I1ri">IronDizaster's IGM tutorial series</a>. The 24 episodes explain in detail the development of Coin Mania. Because of this, the game includes basically every aspect a good IGM game should have, e.g. icons, CSS, shinies etc.</p>
 <h2>Other Links</h2>
-<a href="https://www.youtube.com/playlist?list=PLk6ZXmsEp_yN-z3C_rRZW9O20uil-I1ri">IGM tutorial series</a>
+<a class="other_link" href="https://www.youtube.com/playlist?list=PLk6ZXmsEp_yN-z3C_rRZW9O20uil-I1ri">IGM tutorial series</a>

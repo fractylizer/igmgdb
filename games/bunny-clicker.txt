@@ -4,6 +4,6 @@ Make bunnies and shoot for the stars!
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=/bunnyclicker">Game Link</a>
 <h2>Details</h2>
 <p>This is a simple idle game created by Orteil to showcase some of the basic functionalities of Idle Game Maker. It is linked to in the <a href="https://orteil.dashnet.org/igm/help.html">official IGM handbook</a> and on the <a href="https://orteil.dashnet.org/igm/">IGM homepage</a>.</p>
-<h2>Other links</h2>
-<a href="https://orteil.dashnet.org/igm/">IGM homepage</a>
-<a href="https://orteil.dashnet.org/igm/help.html">IGM handbook</a>
+<h2>Other Links</h2>
+<a class="other_link" href="https://orteil.dashnet.org/igm/">IGM homepage</a>
+<a class="other_link" href="https://orteil.dashnet.org/igm/help.html">IGM handbook</a>
