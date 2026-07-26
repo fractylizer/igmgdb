@@ -59,7 +59,7 @@ var games = {
   "pizza-baker":{name:"Pizza Baker",author:"jez",tags:["food"],release:"2023-10-11"},
   "ice-cream-fusions":{name:"Ice Cream Fusions",author:"rylie-eric",tags:["food"],release:"2022-10-22"},
   "pancake-maker":{name:"Pancake Maker",author:"rylie-eric",tags:["food"],release:"2020-01-10"},
-  "faucet-game":{name:"Faucet Game",author:"fractyl",tags:["story"],release:"2022-09-16"},
+  "faucet-game":{name:"Faucet Game",author:"fractyl",tags:["joke","story"],release:"2022-09-16"},
 };
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},

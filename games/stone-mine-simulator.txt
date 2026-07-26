@@ -3,4 +3,5 @@
 <h2>Links</h2>
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/Stone%20Mine%20Simulator.txt">Game link (2024 restored version)</a>
 <h2>Details</h2>
-<p>This game was created during 2019 and ceased development during 2020. It was originally known as "Mine!" before being renamed. The current playable version has CSS which was created in 2024.</a>
+<p>Stone Mine Simulator (formerly known as "Mine!") was created in late 2019 after a series of small, experimental clicker games. The game was primarily inspired by a science class LG had back in middle school, and was originally planned to have an entire system for traveling deep into caves.<br>The game was most known for having a strange mix of stock images and pixel icons, but it also had a great amount of buildings and upgrades. It received several updates through the rest of 2019, though the game would eventually cease all development soon into the next year.</p>
+<p>After years of abandonment, Stone Mine Simulator was officially restored in 2024, along with its seemingly lost CSS. Unfortunately, a good chunk of the game's icons is no longer available due to link rot and changes to Piskel.</p>
