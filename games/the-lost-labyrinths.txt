@@ -3,7 +3,7 @@ This is an RPG-style game, where you fight different monsters, get better and be
 <h2>Links</h2>
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/The%20Lost%20Labyrinths%20Code.txt">Game Link</a>
 <h2>Game Details</h2>
-The Lost Labyrinths is a RPG game where you fight monsters to earn loot. Battles are real time. This game was posted in DashNet, r/idlegamemaker, and LG's personal site. It was also featured in Episode 2 of <a href="/?a=irondizaster">IronDizaster</a>'s Playing Your Idle Game Maker Games series.
+The Lost Labyrinths is a RPG game where you fight monsters to earn loot. Battles are real time. This game was posted in DashNet, r/idlegamemaker, and LG's personal site. This game is featured in Episode 2 of <a href="?a=irondizaster">IronDizaster</a>'s <a href="?p=irondizaster-pyigmg">Playing Your Idle Game Maker Games</a> series.
 <h2>Other links</h2>
 <a href="https://www.reddit.com/r/idlegamemaker/comments/11udmi0/the_lost_labyrinths_alpha_0071/">Reddit Post</a><br>
 <a href="https://lgplayer13.neocities.org/games/the-lost-labyrinths">Page on LG's website</a>

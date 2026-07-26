@@ -57,6 +57,7 @@ var games = {
   "chicken-farmer":{name:"Chicken Farmer",author:"davtalas",tags:["animals"],release:"2024-06-09"},
   "idle-hero":{name:"Idle Hero",author:"davtalas",tags:["rpg"],release:"2024-12-18"},
   "pizza-baker":{name:"Pizza Baker",author:"jez",tags:["food"],release:"2023-10-11"},
+  "faucet-game":{name:"Faucet Game",author:"fractyl",tags:["joke","story"],release:"2022-09-16"},
 }
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},
