@@ -1,3 +1,3 @@
 Fractyl is an IGM developer who has also created games in JS and Godot.
 <h2>Links</h2>
-<a class="tag" href="https://fractyl.neocities.org/">Fractyl's website</a>
+<a class="other_link" href="https://fractyl.neocities.org/">Fractyl's website</a>
