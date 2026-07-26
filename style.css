@@ -15,7 +15,6 @@
 }
 
 * {
-  color: var(--text-color);
   font-family: "Roboto Slab", Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -25,8 +24,8 @@
 }
 
 body {
+    color: var(--text-color);
     background-color: var(--bg-color2);
-    background-size: 65px;
     margin: 0;
     padding-bottom: 10px;
 }
@@ -97,6 +96,7 @@ ul { list-style-type: square; }
 
 #flex {
   display: flex;
+    margin-bottom: 10px;
 }
 #container {
   max-width: 880px;
@@ -191,6 +191,7 @@ h1 {
 .other_link {background-color: var(--accent-color3);}
 
 select, button {
+    color: var(--text-color);
   background-color: var(--bg-color2);
   border:1px solid var(--accent-color);
 }

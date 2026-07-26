@@ -54,6 +54,12 @@ var games = {
   "qr-code-clicker":{name:"QR Code Clicker",author:"sunnystew",tags:["no-other-tags"],release:"2023-01-26"},
   "dog-clicker":{name:"Dog Clicker",author:"arandomexican",tags:["animals"],release:"2024-03-27"},
   "human-clicker":{name:"Human Clicker",author:"kaarnij666",tags:["civilization"],release:"2022-09-15"},
+  "chicken-farmer":{name:"Chicken Farmer",author:"davtalas",tags:["animals"],release:"2024-06-09"},
+  "idle-hero":{name:"Idle Hero",author:"davtalas",tags:["rpg"],release:"2024-12-18"},
+  "pizza-baker":{name:"Pizza Baker",author:"jez",tags:["food"],release:"2023-10-11"},
+  "ice-cream-fusions":{name:"Ice Cream Fusions",author:"rylie-eric",tags:["food"],release:"2022-10-22"},
+  "pancake-maker":{name:"Pancake Maker",author:"rylie-eric",tags:["food"],release:"2020-01-10"},
+  "faucet-game":{name:"Faucet Game",author:"fractyl",tags:["story"],release:"2022-09-16"},
 };
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},
@@ -79,13 +85,15 @@ var authors = {
   "arandomexican":{name:"ARandoMexican"},
   "kaarnij666":{name:"KaarNij666"},
   "bilingualistic":{name:"Bilingualistic"},
+  "davtalas":{name:"Davtalas"},
+  "jez":{name:"Jez"},
 };
 var tags = {
   "space":{desc:"Game about space and/or set in space."},
   "economy":{desc:"Games focused around money and/or the economy."},
   "food":{desc:"Games focused around food and/or drink."},
   "story":{desc:"Games with a significant story/lore element."},
-  "pyigmg":{desc:"Games featured on IronDizaster's <em>Playing Your Idle Game Maker Games</em> series."},
+  "pyigmg":{desc:"Games featured on <a href=\"/?a=irondizaster\">IronDizaster</a>'s <cite><a href=\"?p=irondizaster-pyigmg\">Playing Your Idle Game Maker Games</a></cite> series."},
   "game-jam":{desc:"Games created as part of a game jam."},
   "igm-game-jam":{desc:"Games created for an IGM game jam."},
   "christmas":{desc:"Games themed around Christmas."},
@@ -105,6 +113,7 @@ var tags = {
 };
 var pages = [
   "about",
-  "igm-game-jam-2025"
+  "igm-game-jam-2025",
+  "authors",
+  "games"
 ];
-
