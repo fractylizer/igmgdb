@@ -1,0 +1,6 @@
+<h2>Description</h2>
+Begin your revenge against the monsters that threaten your planet, start as a simple protector and end as the Super Hero of the galaxies, ascend, evolve, face bosses and save the universe!
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/xZyAG26R">Game link (deleted)</a>
+<h2>Other Links</h2>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/1hh9ftq/my_new_and_first_game_with_css_idle_hero/">Reddit Post</a>

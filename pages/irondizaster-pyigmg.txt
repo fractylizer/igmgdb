@@ -1,0 +1,26 @@
+<h1>IronDizaster's <cite>Playing Your Idle Game Maker Games</cite> series</h1>
+<cite><a href="https://www.youtube.com/playlist?list=PLk6ZXmsEp_yOtWZ-o8X1B4TGX5sgk-21c">Playing Your Idle Game Maker Games</a></cite> is a YouTube series created by <a href="?a=irondizaster">IronDizaster</a> that consists of 4 episodes released between May 2024 and June 2025. The general structure of each video is that IronDizaster will play an IGM game and commentate his experience, before giving a verdict afterwards summarizing his thoughts and giving feedback. The first two episodes feature 4 games each, while the last two episodes focus on a single game each.
+<h2>Games featured on the series</h2>
+Games are listed in the order they appear in the video.
+<h3>Episode 1</h3>
+<ul>
+<li><a href="?g=space-station-manager">Space Station Manager</a> by <a href="?a=kasperja">Kasperja</a></li>
+<li><a href="?g=hellion-scarab">Hellion Scarab</a> by <a href="?a=kasperja">Kasperja</a></li>
+<li>Chicken Clicker by Diamondmaster7040</li>
+<li><a href="?g=pizza-baker">Pizza Baker</a> by <a href="?a=jez">Jez</a></li>
+</ul>
+<h3>Episode 2</h3>
+<ul>
+<li><a href="?g=forezs-dream">Forez's Dream</a> by <a href="?a=frenzy">Frenzy</a></li>
+<li><a href="?g=the-lost-labyrinths">The Lost Labyrinths</a> by <a href="?a=lg">LG</a></li>
+<li><a href="?g=fake-money-clicker">Fake Money Clicker</a> by <a href="?a=fractyl">Fractyl</a></li>
+<li><a href="?g=chicken-farmer">Chicken Farmer</a> by <a href="?a=davtalas">Davtalas</a></li>
+</ul>
+<h3>Episode 3</h3>
+<ul>
+<li><a href="?g=wood-clicker-digital">Wood Clicker Digital</a> by <a href="?a=aeries18">Aeries18</a></li>
+</ul>
+<h3>Episode 4</h3>
+<ul>
+<li><a href="?g=stone-mine-simulator-2024">Stone Mine Simulator 2024</a> by <a href="?a=lg">LG</a></li>
+</ul>

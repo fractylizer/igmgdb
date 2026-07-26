@@ -22,6 +22,17 @@ async function fileExists(url) {
   }
 }
 
+function isValidDate(str) {
+  console.log(str)
+  if ((/^\d{4}-\d{2}-\d{2}$/).test(str)) {
+    return parseInt(str.split("-")[1])<=12 && parseInt(str.split("-")[1])>=1
+  }
+}
+function toDate(str) {
+  var months = ["January","February","March","April","May","June","July","August","September","October","November","December"]
+  return `${str.split("-")[2]} ${months[parseInt(str.split("-")[1])-1]} ${str.split("-")[0]}`
+}
+
 function randomPage() {
   let allKeys = Object.keys(games).map(str=>"g"+str).concat(Object.keys(authors).map(str=>"a"+str),Object.keys(tags).map(str=>"t"+str),pages.map(str=>"p"+str));
   let selected = allKeys[Math.floor(Math.random()*allKeys.length)]
@@ -58,9 +69,15 @@ async function createGamePage(id) {
     let author = ce("p");
     author.innerHTML = `Author: <a href="./?a=${games[id].author}">${authors[games[id].author].name}</a>`
     content.appendChild(author);
-    let release = ce("p");
-    release.innerHTML = `Released ${games[id].release}`
-    content.appendChild(release);
+    if (games[id].release) {
+      let release = ce("p");
+      if (isValidDate(games[id].release)) {
+        release.innerHTML = `Released ${toDate(games[id].release)}`
+      } else {
+        release.innerHTML = `Released ${games[id].release}`
+      }
+      content.appendChild(release);
+    }
     let tags = ce("p");
     tags.innerText += "Tags: "
     games[id].tags.forEach(tag => {
@@ -161,7 +178,7 @@ function createPage(id) {
     desc.innerHTML += "Every game on the website, sorted alphabetically."
     content.appendChild(desc);
     Object.keys(games).sort((a,b) => {
-      return games[a].name.toLowerCase() > games[b].name.toLowerCase()
+      return games[a].name.toLowerCase() > games[b].name.toLowerCase() ? 1 : -1
     }).forEach(game => {
       content.appendChild(gameBox(game))
     });
@@ -176,7 +193,7 @@ function createPage(id) {
     desc.innerHTML += "Every author on the website, sorted alphabetically."
     content.appendChild(desc);
     Object.keys(authors).sort((a,b) => {
-      return authors[a].name.toLowerCase() > authors[b].name.toLowerCase()
+      return authors[a].name.toLowerCase() > authors[b].name.toLowerCase() ? 1 : -1
     }).forEach(author => {
       content.appendChild(authorBox(author))
     });
