@@ -8,5 +8,5 @@ Delve into the mines, bake delicious treats for profit, and go for the gold in t
 <p>Development began on July 9, 2024, after LG decided he wanted to make a short clicker game before his sophomore year of high school started. The game was finished after around 4 weeks of development and testing, being released on August 8, 2024. It can be found on the Dashnet Forums Discord server, Reddit, LG's personal web site, and LG's Discord server. Future post-launch updates are planned, although no release date has been given at the time of writing this.</p>
 <p>This game is the subject of Episode 4 of <a href="?a=irondizaster">IronDizaster</a>'s <a href="?p=irondizaster-pyigmg">Playing Your Idle Game Maker Games</a> series.</p>
 <h2>Other links</h2>
+<a href="https://lgplayer13.neocities.org/games/sms-24">Page on LG's Website</a>
 <a href="https://www.reddit.com/r/idlegamemaker/comments/1enleqr/stone_mine_simulator_2024/">Reddit Post</a><br>
-<a href="https://lgplayer13.neocities.org/games/sms-24">Page on LG Productions Website</a>

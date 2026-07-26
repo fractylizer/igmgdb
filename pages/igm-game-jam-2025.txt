@@ -1,2 +1,2 @@
 <h1>IGM Game Jam 2025</h1>
-The IGM Game Jam 2025 was a game jam that ran from 11 December noon UTC to 25 December noon UTC. The jam theme was Christmas, and all submissions had to follow this theme. Five games were submitted and were then ranked by a group of judges. Results can be found at the <a href="https://fractyl.neocities.org/dashnet/igmgamejam">dedicated website</a>.
+The IGM Game Jam 2025 was a game jam that ran from 11 December noon UTC to 25 December noon UTC. The theme chosen for the jam was Christmas, and all submissions were required to follow this theme.<br>Five games were submitted and were then ranked by a group of judges. The results can be found on the <a href="https://fractyl.neocities.org/dashnet/igmgamejam">dedicated website</a>.

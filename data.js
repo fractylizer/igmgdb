@@ -57,9 +57,11 @@ var games = {
   "chicken-farmer":{name:"Chicken Farmer",author:"davtalas",tags:["animals"],release:"2024-06-09"},
   "idle-hero":{name:"Idle Hero",author:"davtalas",tags:["rpg"],release:"2024-12-18"},
   "pizza-baker":{name:"Pizza Baker",author:"jez",tags:["food"],release:"2023-10-11"},
+  "ice-cream-fusions":{name:"Ice Cream Fusions",author:"rylie-eric",tags:["food"],release:"2022-10-22"},
+  "pancake-maker":{name:"Pancake Maker",author:"rylie-eric",tags:["food"],release:"2020-01-10"},
   "faucet-game":{name:"Faucet Game",author:"fractyl",tags:["joke","story"],release:"2022-09-16"},
   "pizza-clicker":{name:"Pizza Clicker",author:"tlswt",tags:["food"],release:"2023-08-25"},
-}
+};
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},
   "rylie-eric":{name:"Rylie Eric", aka:["Agentperson","AgentRylie"]},
@@ -87,7 +89,7 @@ var authors = {
   "davtalas":{name:"Davtalas"},
   "jez":{name:"Jez"},
   "tlswt":{name:"tl_s__w_t"}
-}
+};
 var tags = {
   "space":{desc:"Game about space and/or set in space."},
   "economy":{desc:"Games focused around money and/or the economy."},
@@ -110,11 +112,10 @@ var tags = {
   "educational":{desc:"Educational games."},
   "history":{desc:"Games set in the past."},
   "no-other-tags":{desc:"Games with no other tags."},
-}
+};
 var pages = [
   "about",
   "igm-game-jam-2025",
   "authors",
   "games"
-]
-
+];

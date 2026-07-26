@@ -4,4 +4,6 @@
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/Stone%20Mine%20Simulator%202.txt">Game link (File Garden)</a>
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Dk11LaPv">Game link (Pastebin) (broken)</a>
 <h2>Details</h2>
-<p>The current playable version has CSS which was created in 2024.</p>
+<p>Stone Mine Simulator 2 is the sequel to Stone Mine Simulator, and was shadow dropped after years of inactivity from LG (his mom banned him from Discord). The game featured improved CSS, new mechanics and minigames, and removed all stock images.</p>
+<p>The game would receive a surprising amount of updates over the next few months, but stopped midway through version 1.0's development.<br>Similar to its predecessor, SMS 2 would end up abandoned, and eventually lose its icons and CSS. It would be officially restored in 2024, now with proper CSS and hosted on File Garden.</p>
+<p>Many elements of this game would end up returning in Stone Mine Simulator 2024, such as the Bakery minigame and the research mechanic. SMS '24 is the spiritual successor to SMS 1 and SMS 2, and hasn't suffered from link rot.</p>
