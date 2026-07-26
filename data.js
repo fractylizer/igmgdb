@@ -58,6 +58,7 @@ var games = {
   "idle-hero":{name:"Idle Hero",author:"davtalas",tags:["rpg"],release:"2024-12-18"},
   "pizza-baker":{name:"Pizza Baker",author:"jez",tags:["food"],release:"2023-10-11"},
   "faucet-game":{name:"Faucet Game",author:"fractyl",tags:["joke","story"],release:"2022-09-16"},
+  "pizza-clicker":{name:"Pizza Clicker",author:"tlswt",tags:["food"],release:"2023-08-25"},
 }
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},
@@ -85,6 +86,7 @@ var authors = {
   "bilingualistic":{name:"Bilingualistic"},
   "davtalas":{name:"Davtalas"},
   "jez":{name:"Jez"},
+  "tlswt":{name:"tl_s__w_t"}
 }
 var tags = {
   "space":{desc:"Game about space and/or set in space."},
