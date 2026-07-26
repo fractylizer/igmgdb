@@ -2,5 +2,7 @@
 A game about managing a Space Station and trading your way to build an intergalactic trading empire.
 <h2>Links</h2>
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://raw.githubusercontent.com/kasperja/SSM/refs/heads/main/SSM3-3.txt">Game link</a>
+<h2>Details</h2>
+This game was featured in Episode 1 of <a href="?a=irondizaster">IronDizaster</a>'s <a href="?p=irondizaster-pyigmg">Playing Your Idle Game Maker Games</a> series.
 <h2>Other links</h2>
 <a href="https://www.reddit.com/r/idlegamemaker/comments/gv7wkz/space_station_manager_v_20_by_kasperja/">Reddit post</a>

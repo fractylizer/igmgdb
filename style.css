@@ -13,7 +13,6 @@
 }
 
 * {
-  color: var(--text-color);
   font-family: "Roboto Slab", Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -24,8 +23,8 @@
 
 body {
   background-color: var(--bg-color2);
+  color: var(--text-color);
   margin: 0;
-	background-size: 65px;
 }
 
 #headerArea {
@@ -92,6 +91,7 @@ ul { list-style-type: square; }
 
 #flex {
   display: flex;
+  margin-bottom:10px;
 }
 #container {
   max-width: 880px;
@@ -188,6 +188,7 @@ h1 {
 
 select, button {
   background-color: var(--bg-color2);
+  color:var(--text-color);
   border:1px solid var(--accent-color);
 }
 
