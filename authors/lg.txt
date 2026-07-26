@@ -1,4 +1,4 @@
 LG is an IGM and Scratch developer. He used to wear cat ears but took them off after The Incident™.
 <h2>Links</h2>
-<a class="tag" href="https://lgplayer13.neocities.org/">LG's website</a>
-<a class="tag" href="https://discord.gg/v7NaVBTwnD">LG's Discord server</a>
+<a class="other_link" href="https://lgplayer13.neocities.org/">LG's website</a>
+<a class="other_link" href="https://discord.gg/v7NaVBTwnD">LG's Discord server</a>
