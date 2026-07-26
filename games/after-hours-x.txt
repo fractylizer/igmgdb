@@ -1,4 +1,4 @@
- <h2>Description</h2>
+<h2>Description</h2>
 A point-and-click horror game where you work in the depths of Santa's workshop, fighting against what lurks in the shadows. Make it through the last five days 'til Christmas for that sweet holiday bonus. And maybe some therapy.
 <h2>Links</h2>
 <a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/Yhwc9XZFah3TM9iw/AfterHoursX.txt">Game link</a>

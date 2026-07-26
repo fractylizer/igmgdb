@@ -60,6 +60,7 @@ var games = {
   "ice-cream-fusions":{name:"Ice Cream Fusions",author:"rylie-eric",tags:["food"],release:"2022-10-22"},
   "pancake-maker":{name:"Pancake Maker",author:"rylie-eric",tags:["food"],release:"2020-01-10"},
   "faucet-game":{name:"Faucet Game",author:"fractyl",tags:["joke","story"],release:"2022-09-16"},
+  "pizza-clicker":{name:"Pizza Clicker",author:"tlswt",tags:["food"],release:"2023-08-25"},
 };
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},
@@ -87,6 +88,7 @@ var authors = {
   "bilingualistic":{name:"Bilingualistic"},
   "davtalas":{name:"Davtalas"},
   "jez":{name:"Jez"},
+  "tlswt":{name:"tl_s__w_t"}
 };
 var tags = {
   "space":{desc:"Game about space and/or set in space."},
