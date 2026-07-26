@@ -5,4 +5,4 @@ One day you wake up with the idea of ​​becoming the biggest egg seller in th
 <h2>Details</h2>
 This game was featured in Episode 2 of <a href="?a=irondizaster">IronDizaster</a>'s <a href="?p=irondizaster-pyigmg">Playing Your Idle Game Maker Games</a> series.
 <h2>Other Links</h2>
-<a href="https://www.reddit.com/r/idlegamemaker/comments/1dcatei/my_first_game_in_idle_game_maker_i_will_add_more/">Reddit Post</a>
+<a class="other_link" href="https://www.reddit.com/r/idlegamemaker/comments/1dcatei/my_first_game_in_idle_game_maker_i_will_add_more/">Reddit post</a>

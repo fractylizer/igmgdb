@@ -5,4 +5,4 @@ Make random QR codes, start selling them, get rich, and build a QR code empire!
 <h2>Details</h2>
 <p>Scanning the QR code used as an icon for the big button and main resource will search "If you scan this QR code, you are special."</p>
 <h2>Other Links</h2>
-<a href="https://www.reddit.com/r/idlegamemaker/comments/1u8mf4k/recursive_upgrades/">Reddit post</a>
+<a class="other_link" href="https://www.reddit.com/r/idlegamemaker/comments/1u8mf4k/recursive_upgrades/">Reddit post</a>

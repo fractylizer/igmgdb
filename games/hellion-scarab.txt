@@ -5,4 +5,4 @@ Journey out, trade and upgrade your spaceship.
 <h2>Details</h2>
 This game was featured in Episode 1 of <a href="?a=irondizaster">IronDizaster</a>'s <a href="?p=irondizaster-pyigmg">Playing Your Idle Game Maker Games</a> series.
 <h2>Other Links</h2>
-<a href="https://www.reddit.com/r/idlegamemaker/comments/16thwky/hellion_scarab/">Reddit post</a>
+<a class="other_link" href="https://www.reddit.com/r/idlegamemaker/comments/16thwky/hellion_scarab/">Reddit post</a>

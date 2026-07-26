@@ -1,2 +1,2 @@
 <h2>Links</h2>
-<a href="https://discord.gg/VEAWqSwQXG">Discord Server</a>
+<a class="tag" href="https://discord.gg/VEAWqSwQXG">Discord server</a>

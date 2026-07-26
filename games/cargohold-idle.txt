@@ -5,5 +5,5 @@ A game about upgrading and managing the cargo hold of a spaceship, while trading
 <h2>Details</h2>
 <p>The main currency of the game is "Koros". The gameplay involves strategically trading resources at the Auction House and producing them using modules, generators, and upgrades. You can trade and produce ice, plasma, and biofuel. There is also an ascension system where "Anomaly Fragments" can be gained.</p>
 <p>The beta was released on April 2nd 2025, with version 1.0 being released one week later on April 9th.</p>
-<h2>Other links</h2>
-<a href="https://kasperja.com/">Kasperja's website</a>
+<h2>Other Links</h2>
+<a class="other_link" href="https://kasperja.com/">Kasperja's website</a>

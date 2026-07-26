@@ -6,4 +6,4 @@ A game about farming mushrooms with the help of witches, spaceships, and the Mar
 <p>The game follows a typical incremental format, with buildings that produce mushrooms and upgrades that make mushroom production more effective.</p>
 <p>The game was developed as a submission for the <a href="https://itch.io/jam/lazy-jam-autumn-2024">Lazy Developer Autumn 2024 Game Jam</a>, and was seemingly the only entry.</p>
 <h2>Other Links</h2>
-<a href="https://github.com/thealtingsage/mushroom-clicker">GitHub repository</a>
+<a class="other_link" href="https://github.com/thealtingsage/mushroom-clicker">GitHub Repository</a>

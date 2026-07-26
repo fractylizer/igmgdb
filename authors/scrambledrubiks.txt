@@ -1,2 +1,2 @@
 <h2>Links</h2>
-<a href="https://scrambledrubiks.neocities.org/">ScrambledRubiks's website</a>
+<a class="tag" href="https://scrambledrubiks.neocities.org/">ScrambledRubiks's website</a>

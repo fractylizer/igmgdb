@@ -8,10 +8,10 @@ Drink milk all because some narrator forces you to. Or don't... not like he's go
 <p>This game was inspired by the Roblox game <em>Get a Snack at 4am</em>, which follows a similar structure of interacting with an environment in different ways to get one of many endings.</p>
 <p>This game was posted in r/idlegamemaker, DashNet, and Rylie's personal site.</p>
 <p>This game was preceded by several demos exploring different aspects of the game, such as the log and the movement system. An alternate "Cheesecake" version was released for April Fools 2023.</p>
-<h2>Other links</h2>
+<h2>Other Links</h2>
 <a href="https://rylieeric.neocities.org/projects/Milk">Page on Rylie Eric's website</a><br>
-<a href="https://www.reddit.com/r/idlegamemaker/comments/128cu0u/cheesecake_totally_real_milk_game_spinoff/">Reddit Post</a><br>
-<a href="https://www.reddit.com/r/idlegamemaker/comments/pawag0/game_get_a_glass_of_milk_because_you_have_to/">Reddit Post (Cheesecake)</a><br>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/128cu0u/cheesecake_totally_real_milk_game_spinoff/">Reddit post</a><br>
+<a href="https://www.reddit.com/r/idlegamemaker/comments/pawag0/game_get_a_glass_of_milk_because_you_have_to/">Reddit post (Cheesecake)</a><br>
 
 
 <h2>Related Games</h2>

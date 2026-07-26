@@ -7,4 +7,4 @@ Make pancakes to make different kinds and get collectibles like Achievements and
 <p>Pancake Maker is a game where you make pancakes. You do this through following the process of making one. You can unlock other method to help boost profit, such as drinks. There's also a variety of quests to do and achievements to get. This game was posted in Rylie's personal site, r/idlegamemaker, and Dashnet.<br><br>Rylie wanted to make a unique game on IGM, so she decided to work on several ideas throughout 2019, including what would end up being Pancake Maker. Pancake Maker ended up taking full focus and she worked on it for several hours a week. The cooking process was done in order and without much regard for bugs. The game lanuched on January 10th, 2020 at DashNet.</p>
 <h2>Other Links</h2>
 <a class="other_link" href="https://rylieeric.neocities.org/projects/PM">Page on Rylie Eric's website</a>
-<a class="other_link" href="https://www.reddit.com/r/idlegamemaker/comments/m06lnu/game_pancake_maker/">Reddit Post</a>
+<a class="other_link" href="https://www.reddit.com/r/idlegamemaker/comments/m06lnu/game_pancake_maker/">Reddit post</a>
