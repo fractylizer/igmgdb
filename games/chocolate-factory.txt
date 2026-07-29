@@ -1,0 +1,6 @@
+<h2>Description</h2>
+From a bakery in a small town no one really cares about, can you take over the world (and the galaxy?)
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/aPZJkyRP">Game link</a>
+<h2>Details</h2>
+<p>The descriptions of debug buttons are from articles from the fictional SCP foundation, which have seemingly nothing to do with the buttons or rest of the game. Only one of these buttons is visible.</p>

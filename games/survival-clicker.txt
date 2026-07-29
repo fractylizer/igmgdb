@@ -1,0 +1,7 @@
+<h2>Description</h2>
+A game about gathering resources to survive.
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/experiments/idlegamemaker/?game=https://pastebin.com/raw/XzmSHccR">Game link (no CSS)</a>
+<a class="game_link" href="https://orteil.dashnet.org/experiments/idlegamemaker/?game=https://file.garden/YzZzxtT39TTHP4pp/IGM/misc/survivalClicker.txt">Game link (rehosted, CSS restored)</a>
+<h2>Other Links</h2>
+<a class="other_link" href="https://web.archive.org/web/20140404134134/http://forum.dashnet.org/discussion/2720/survival-clicker-click-to-survive-">Forum post (archived)</a>

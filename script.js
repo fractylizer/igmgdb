@@ -58,6 +58,7 @@ async function createIndex() {
 }
 async function createGamePage(id) {
   if (games[id]) {
+    document.title += " - "+games[id].name;
     let banner = ce("div");
     banner.classList.add("banner");
     banner.style.backgroundImage = `url("./images/banners/${id}.png")`;
@@ -109,6 +110,7 @@ async function createGamePage(id) {
 
 async function createAuthorPage(id) {
   if (authors[id]) {
+    document.title += " - "+authors[id].name;
     let banner = ce("div");
     banner.classList.add("banner");
     banner.style.backgroundImage = `url("./images/banners/${id}.png")`;
@@ -149,6 +151,7 @@ async function createAuthorPage(id) {
 }
 
 function createTagPage(id) {
+  document.title += ` - Games tagged "${id}"`;
   let content = ce("div")
   content.classList.add("content")
   let title = ce("h1");

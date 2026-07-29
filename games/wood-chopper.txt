@@ -1,0 +1,6 @@
+<h2>Description</h2>
+A game about chopping wood.
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/experiments/idlegamemaker/?game=https://pastebin.com/raw/ZjaeGwPC">Game link</a>
+<h2>Other Links</h2>
+<a class="other_link" href="https://web.archive.org/web/20140404091551/http://forum.dashnet.org/discussion/2975/wood-chopper">Forum post (archived)</a>

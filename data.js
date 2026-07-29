@@ -56,11 +56,16 @@ var games = {
   "human-clicker":{name:"Human Clicker",author:"kaarnij666",tags:["civilization"],release:"2022-09-15"},
   "chicken-farmer":{name:"Chicken Farmer",author:"davtalas",tags:["animals"],release:"2024-06-09"},
   "idle-hero":{name:"Idle Hero",author:"davtalas",tags:["rpg"],release:"2024-12-18"},
-  "pizza-baker":{name:"Pizza Baker",author:"jez",tags:["food"],release:"2023-10-11"},
+  "pizza-baker":{name:"Pizza Baker",author:"jez",tags:["food","pizza"],release:"2023-10-11"},
   "ice-cream-fusions":{name:"Ice Cream Fusions",author:"rylie-eric",tags:["food"],release:"2022-10-22"},
   "pancake-maker":{name:"Pancake Maker",author:"rylie-eric",tags:["food"],release:"2020-01-10"},
   "faucet-game":{name:"Faucet Game",author:"fractyl",tags:["joke","story"],release:"2022-09-16"},
-  "pizza-clicker":{name:"Pizza Clicker",author:"tlswt",tags:["food"],release:"2023-08-25"},
+  "pizza-clicker":{name:"Pizza Clicker",author:"tlswt",tags:["food","pizza"],release:"2023-08-25"},
+  "pizza-clicker-irondude":{name:"Pizza Clicker",author:"irondude",tags:["food","pizza"],release:"2019-02-23"},
+  "tribe-clicker":{name:"Tribe Clicker",author:"orteil",tags:["civilization","old-igm"],release:"2013-12-21"},
+  "chocolate-factory":{name:"Chocolate Factory",author:"efficacy",tags:["food"],release:"2022-11-12"},
+  "wood-chopper":{name:"Wood Chopper",author:"zaspar99923",tags:["old-igm"],release:"2014-02-23"},
+  "survival-clicker":{name:"Survival Clicker",author:"squ",tags:["old-igm"],release:"2014-02-10"},
 };
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},
@@ -88,7 +93,11 @@ var authors = {
   "bilingualistic":{name:"Bilingualistic"},
   "davtalas":{name:"Davtalas"},
   "jez":{name:"Jez"},
-  "tlswt":{name:"tl_s__w_t"}
+  "tlswt":{name:"tl_s__w_t"},
+  "irondude":{name:"IronDude"},
+  "efficacy":{name:"Efficacy"},
+  "zaspar99923":{name:"Zaspar99923"},
+  "squ":{name:"Squ"},
 };
 var tags = {
   "space":{desc:"Game about space and/or set in space."},
@@ -112,6 +121,8 @@ var tags = {
   "educational":{desc:"Educational games."},
   "history":{desc:"Games set in the past."},
   "no-other-tags":{desc:"Games with no other tags."},
+  "pizza":{desc:"Games about pizza."},
+  "civilization":{desc:"Games about starting and/or managing a civilization."},
 };
 var pages = [
   "about",

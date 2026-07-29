@@ -1,0 +1,4 @@
+<h2>Description</h2>
+A game about starting a tribe.
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/experiments/idlegamemaker/?game=https://pastebin.com/raw/sRVrEsWn">Game link</a>
