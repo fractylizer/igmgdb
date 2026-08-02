@@ -66,6 +66,8 @@ var games = {
   "chocolate-factory":{name:"Chocolate Factory",author:"efficacy",tags:["food"],release:"2022-11-12"},
   "wood-chopper":{name:"Wood Chopper",author:"zaspar99923",tags:["old-igm"],release:"2014-02-23"},
   "survival-clicker":{name:"Survival Clicker",author:"squ",tags:["old-igm"],release:"2014-02-10"},
+  "alternate-account-ability":{name:"Alternate Account Ability",author:"fractyl",tags:["no-other-tags"],release:"2024-08-25"},
+  "present-wrapping":{name:"Present Wrapping",author:"one",tags:["igm-game-jam","game-jam","christmas"],release:"2025-12-25"},
 };
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},
@@ -98,6 +100,7 @@ var authors = {
   "efficacy":{name:"Efficacy"},
   "zaspar99923":{name:"Zaspar99923"},
   "squ":{name:"Squ"},
+  "one":{name:"One"},
 };
 var tags = {
   "space":{desc:"Game about space and/or set in space."},

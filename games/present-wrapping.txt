@@ -1,0 +1,6 @@
+<h2>Description</h2>
+Christmas is soon, so you better get your gifts ready! Get your elves to work their ass off while you do nothing. Good luck!
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://file.garden/YzZzxtT39TTHP4pp/IGM/gamejam/1/One.txt">Game link</a>
+<h2>Details</h2>
+This game was made as a submission for the <a href="./?p=igm-game-jam-2025">IGM Game Jam 2025</a>. It came 5th out of 5 games overall.
