@@ -68,6 +68,8 @@ var games = {
   "survival-clicker":{name:"Survival Clicker",author:"squ",tags:["old-igm"],release:"2014-02-10"},
   "alternate-account-ability":{name:"Alternate Account Ability",author:"fractyl",tags:["no-other-tags"],release:"2024-08-25"},
   "present-wrapping":{name:"Present Wrapping",author:"one",tags:["igm-game-jam","game-jam","christmas"],release:"2025-12-25"},
+  "peanut-butter-cupper":{name:"Peanut Butter Cupper",author:"morkysherk",tags:["food"],release:"2017-12-10"},
+  "nonsensical-game":{name:"Nonsensical Game",author:"brainiac2019",tags:["joke"],release:"2021-01-14"},
 };
 var authors = {
   "fractyl":{name:"Fractyl", aka:["Fractylizer","Amethyst"]},
@@ -101,6 +103,8 @@ var authors = {
   "zaspar99923":{name:"Zaspar99923"},
   "squ":{name:"Squ"},
   "one":{name:"One"},
+  "morkysherk":{name:"Morkysherk"},
+  "brainiac2019":{name:"Brainiac2019"},
 };
 var tags = {
   "space":{desc:"Game about space and/or set in space."},

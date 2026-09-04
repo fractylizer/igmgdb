@@ -1,0 +1,6 @@
+<h2>Description</h2>
+a game that makes absoLUTELY no sense
+<h2>Links</h2>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/PS8Ew7XN">Game link</a>
+<h2>Details</h2>
+<p>Be warned: this game is almost devoid of content and yet takes a lot of manual effort to complete.</p>
