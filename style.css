@@ -24,8 +24,15 @@
 }
 
 body {
+  position: absolute;
+  width: 100%;
+  min-height:100%;
+  left: 0;
   color: var(--text-color);
   background-color: var(--bg-color2);
+  background-image:  url("images/borderShadow.png"), url("images/background.png");
+  background-attachment: fixed;
+  background-size: 100% 100%, auto;
   margin: 0;
 }
 

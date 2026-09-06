@@ -1,1 +1,3 @@
 Once admitted to not being Mexican.
+<h2>Links</h2>
+<a class="other_link" href="https://acompleteidiot.github.io/">ARandomMexican's website</a>

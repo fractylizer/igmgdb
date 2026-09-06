@@ -162,11 +162,11 @@ function createTagPage(id) {
     desc.innerHTML += tags[id].desc
     content.appendChild(desc);
   }
-  for (game in games) {
+  Object.keys(games).sort().forEach(game => {
     if (games[game].tags.includes(id)) {
       content.appendChild(gameBox(game))
     }
-  }
+  })
   gid("main").appendChild(content);
 }
 
@@ -274,12 +274,13 @@ function setTheme(theme) {
   themeSelect.selectedIndex = theme
   let themes = [
     {"accent-color": "#d390ab","bg-color": "#0b2f51","bg-color2": "#1f1931","text-color": "#ffffff"},
-    {"accent-color": "#40ccf0","bg-color": "#0b2f51","bg-color2": "#192131","text-color": "#ffffff"},
+    {"accent-color": "#77daf3","bg-color": "#0b2f51","bg-color2": "#192131","text-color": "#ffffff"},
     {"accent-color": "#f0ed40","bg-color": "#510b0b","bg-color2": "#31191e","text-color": "#ffffff"},
-    {"accent-color": "#40ccf0","bg-color": "#0b5117","bg-color2": "#1a3119","text-color": "#ffffff"},
+    {"accent-color": "#77daf3","bg-color": "#0b5117","bg-color2": "#1a3119","text-color": "#ffffff"},
     {"accent-color": "#f040b5","bg-color": "#510b45","bg-color2": "#311921","text-color": "#ffffff"},
-    {"accent-color": "#cccccc","bg-color": "#111111","bg-color2": "#000000","text-color": "#ffffff"},
+    {"accent-color": "#cccccc","bg-color": "#111111","bg-color2": "#222222","text-color": "#ffffff"},
     {"accent-color": "#f0ed40","bg-color": "#513e0b","bg-color2": "#312b19","text-color": "#ffffff"},
+    {"accent-color": "#f55ff5","bg-color": "#2f0b51","bg-color2": "#251931","text-color": "#ffffff"},
   ]
   themes.forEach(theme => {
     theme["accent-color2"] = theme["accent-color"];

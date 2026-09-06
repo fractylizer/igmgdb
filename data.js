@@ -23,7 +23,7 @@ var games = {
   "five":{name:"Five",author:"hyphen",tags:["joke","5"],release:"2023-06-02"},
   "lemonade-clicker":{name:"Lemonade Clicker",author:"hyphen",tags:["food"],release:"2023-03-15"},
   "item-clicker":{name:"Item Clicker",author:"hyphen",tags:["technology"],release:"2022-09-24"},
-  "after-hours-x":{name:"After Hours X",author:"lg",tags:["igm-game-jam","game-jam","christmas","horror"],release:"2025-12-29"},
+  "after-hours-x":{name:"After Hours X",author:"lg",tags:["igm-game-jam","game-jam","christmas","horror","story"],release:"2025-12-29"},
   "ice-cream-clicker":{name:"Ice Cream Clicker",author:"2slimes",tags:["food"],release:"2022-03-30"},
   "color-clicker":{name:"Color Clicker",author:"2slimes",tags:["no-other-tags"],release:"2022-07-15"},
   "fire-forge-old":{name:"Fire Forge (old)",author:"lg",tags:["story"],release:"2022-07-15"},

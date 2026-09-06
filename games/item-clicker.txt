@@ -1,4 +1,5 @@
 <h2>Description</h2>
 An game about making items to make more items.
 <h2>Links</h2>
-<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Z4cWnxYD">Game link</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://raw.githubusercontent.com/Lexal1/lexal-IGM-games/main/itemgame">Game link (GitHub)</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Z4cWnxYD">Old link (Pastebin)</a>

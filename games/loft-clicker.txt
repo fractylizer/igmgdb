@@ -1,6 +1,7 @@
 <h2>Description</h2>
 Click the loft man.
 <h2>Links</h2>
-<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Acjp55Tr">Game link</a>
+<a class="game_link" href="https://acompleteidiot.github.io/loft-clicker">Game link (GitHub)</a>
+<a class="game_link" href="https://orteil.dashnet.org/igm/?g=https://pastebin.com/raw/Acjp55Tr">Game link (Pastebin)</a>
 <h2>Details</h2>
-Based on the Roblox game Loft Tower 2. "Loft" is short for Licking Soft, and "Woft" is short for Water Licking Soft. They are characters from Loft Tower 2.
+Based on the Roblox game Loft Tower 2. "Loft" is short for Licking Soft, and "Woft" is short for Water Licking Soft. They are characters from Loft Tower 2. A <a href="https://acompleteidiot.github.io/loft-clicker-2">sequel to Loft Clicker</a> created with JavaScript was released in September 2026, and the original was then relocated to GitHub.
